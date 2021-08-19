@@ -1,0 +1,13 @@
+C:\Users\vkada\Desktop\GFT START22021\bin\Debug\netcoreapp3.1\GFT START22021.exe
+C:\Users\vkada\Desktop\GFT START22021\bin\Debug\netcoreapp3.1\GFT START22021.deps.json
+C:\Users\vkada\Desktop\GFT START22021\bin\Debug\netcoreapp3.1\GFT START22021.runtimeconfig.json
+C:\Users\vkada\Desktop\GFT START22021\bin\Debug\netcoreapp3.1\GFT START22021.runtimeconfig.dev.json
+C:\Users\vkada\Desktop\GFT START22021\bin\Debug\netcoreapp3.1\GFT START22021.dll
+C:\Users\vkada\Desktop\GFT START22021\bin\Debug\netcoreapp3.1\GFT START22021.pdb
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.csprojAssemblyReference.cache
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.AssemblyInfoInputs.cache
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.AssemblyInfo.cs
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.csproj.CoreCompileInputs.cache
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.dll
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.pdb
+C:\Users\vkada\Desktop\GFT START22021\obj\Debug\netcoreapp3.1\GFT START22021.genruntimeconfig.cache

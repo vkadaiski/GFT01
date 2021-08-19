@@ -1,0 +1,13 @@
+C:\Users\vkada\Desktop\ex04\bin\Debug\netcoreapp3.1\ex04.exe
+C:\Users\vkada\Desktop\ex04\bin\Debug\netcoreapp3.1\ex04.deps.json
+C:\Users\vkada\Desktop\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.json
+C:\Users\vkada\Desktop\ex04\bin\Debug\netcoreapp3.1\ex04.runtimeconfig.dev.json
+C:\Users\vkada\Desktop\ex04\bin\Debug\netcoreapp3.1\ex04.dll
+C:\Users\vkada\Desktop\ex04\bin\Debug\netcoreapp3.1\ex04.pdb
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.csprojAssemblyReference.cache
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfoInputs.cache
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.AssemblyInfo.cs
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.csproj.CoreCompileInputs.cache
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.dll
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.pdb
+C:\Users\vkada\Desktop\ex04\obj\Debug\netcoreapp3.1\ex04.genruntimeconfig.cache
